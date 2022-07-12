@@ -4,4 +4,4 @@
 
 A simple, miniature expression interpreter with addition, subtraction, multiplication, division and parentheses operations. Real numbers are always used as numbers, even if integers are entered. Creation goes in three steps: lexer, parser, interpreter. The answer is displayed in green, errors in red.
 
->>> python3 main.py
+> python3 main.py
